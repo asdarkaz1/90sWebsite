@@ -1,0 +1,35 @@
+body {
+
+    background-color: rgb(26, 26, 205);
+}
+
+p,h4{
+    color: rgb(227, 59, 59);
+}
+
+h1,h2, h3{
+    color: gold;
+}
+
+li{
+    color: whitesmoke;
+}
+
+td{
+    color: whitesmoke;
+}
+
+label{
+    color: whitesmoke;
+}
+
+a{
+    color: lightblue;
+}
+
+input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
